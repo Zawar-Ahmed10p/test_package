@@ -4,7 +4,7 @@ setup(
     name='test-package',
     version='0.0.1',
     description='My private package from private github repo',
-    url='git@github.com:Zawar-Ahmed10p/test-package.git',
+    url='https://github.com/Zawar-Ahmed10p/test-package.git',
     author='Raphael Schubert',
     author_email='zawar.ahmed@tenpearls.com',
     license='unlicense',
